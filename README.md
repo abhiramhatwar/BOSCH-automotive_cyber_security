@@ -10,11 +10,8 @@ This project is part of the BOSCH Automotive Cybersecurity initiative, focusing 
    git clone https://github.com/abhiramhatwar/BOSCH-automotive-cyber-security.git
    cd your-repository
 
-2.Install the requirements:
-```bash
-pip install -r requirements.txt
-
-3.Run Flask application:
-```bash
-python app.py
+2.Install the requirements and run the application:
+   ```bash
+   pip install -r requirements.txt
+   python app.py
 
