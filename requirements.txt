@@ -1,0 +1,6 @@
+cryptography
+Flask
+Flask-Session
+Flask-SocketIO
+rsa
+gunicorn
